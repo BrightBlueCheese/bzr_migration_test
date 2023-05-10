@@ -2,3 +2,4 @@ This is the first trial using bzr
 About to migrate the repositories on bzr to git
 Yes
 New line from sample2 directory
+This one is from sample2
